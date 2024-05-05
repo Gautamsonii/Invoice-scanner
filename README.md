@@ -1,4 +1,5 @@
-Gemini Q&A Chatbot and Image Description App
+# Gemini Q&A Chatbot and Image Description App
+
 Gemini is a versatile AI-powered application that combines language understanding and image processing capabilities to provide responses to user queries and describe uploaded images. The application utilizes cutting-edge AI models to generate accurate and contextually relevant content.
 
 Features
