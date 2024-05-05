@@ -1,16 +1,12 @@
-# Invoice-scanner
-
-Demo of Gemini Images
-Google's GenerativeAI powers the Streamlit application Gemini Image Demo. It functions as a Q&A chatbot for image analysis, with an emphasis on comprehending bills in particular.
-
+Gemini Q&A Chatbot and Image Description App
+Gemini is a versatile AI-powered application that combines language understanding and image processing capabilities to provide responses to user queries and describe uploaded images. The application utilizes cutting-edge AI models to generate accurate and contextually relevant content.
 
 Features
-Users have the option to input a prompt to ask questions or to add context for the image.
-Upload Image: For analysis, users can upload images in jpeg, png, or jpg formats.
-Image analysis: Based on the input prompt, the application analyzes the uploaded image using Google's GenerativeAI and returns results.
-Streamlit Interface: Streamlit was used in the construction of the user-friendly interface, which makes it simple to interact with and view the uploaded image and generated responses.
-Beginning
-To launch the application locally, take the following actions:
-
-Make a local copy of the repository on your computer.
-Run in order to install the necessary dependencies.
+Q&A Chatbot
+Gemini LLM Application: Allows users to interact with a conversational AI model to ask questions and receive responses.
+Gemini Pro Model: Employs the Gemini Pro model to provide insightful and coherent answers to a wide range of queries.
+Chat History: Maintains a chat history, displaying user queries and bot responses for reference.
+Image Description
+Gemini Image Demo: Enables users to upload images and receive descriptive text about the content of the image.
+Gemini Pro Vision Model: Utilizes the Gemini Pro Vision model to analyze uploaded images and generate detailed descriptions.
+Input Prompt: Provides users with the option to input additional context or prompts to guide the image description process.
